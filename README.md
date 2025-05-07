@@ -1,1 +1,1 @@
-# nph-peru-web | proyecto de responsabilidad social (PRS)
+# nph-peru-web | proyecto de responsabilidad social
